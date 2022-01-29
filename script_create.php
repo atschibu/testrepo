@@ -15,7 +15,7 @@ foreach($script_extay_ssh as $url)
 	printf("<li style='font-size: 20px'><a href = 'https://%s'>%s</a></li>", $url, $url);
 
 
-$script_extay = array('heilsam.de', 'crosoft.de/test','crosoft.de/termine_datum/abfrage.php', '192.168.1.5/arzt-urteile/index.php', 'google.de',
+$script_extay = array('heilsam.de','192.168.1.5/arzt-urteile/index.php', 'google.de',
 'www.google.com/search?q=site:www.dr-zeitler.de&hl=de', 'php.net', '192.168.1.5/phphacks/spider/spider.php',  'dr-zeitler.de/report.html', '192.168.1.5/phphacks/spider/report.html', 'crosoft.de/intranet/index.php5', 
 'crosoft.de/intranet/index.php5?wiki=HumanInventory', 'doklink.de/index.php?wiki=HiMain', 'doklink.de/index.php?wiki=InMain', '192.168.1.5/ch7/komplex/index.php?wiki=HiMain', 'pear.php.net',
 );
