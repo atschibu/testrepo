@@ -1,3 +1,4 @@
 # testrepo
 erste Gehversuche
-Noch bisschen was Kluges
+Noch bisschen was Klugs
+## Meine Todos:
